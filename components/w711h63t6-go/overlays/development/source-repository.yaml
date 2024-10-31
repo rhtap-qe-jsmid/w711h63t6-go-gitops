@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w711h63t6-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/w711h63t6-go
